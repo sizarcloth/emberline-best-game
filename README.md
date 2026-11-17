@@ -1,6 +1,8 @@
 # EMBERLINE — Tactical FPS
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--game--01-orange)](https://make.fun/bounty/best-game-01)
+[![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/sizarcloth/emberline-best-game/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/sizarcloth/emberline-best-game/reward.svg)](https://make.fun/bounty/best-game-01)
 
 A complete tactical FPS that plays offline in a desktop browser: **Vanguard
 vs Jackals, 5v5, first to 5 rounds** on Kiln Yard, a desert brickworks at
